@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dockercon">
+    <output-path>$PROJECT_DIR$/docker-dir</output-path>
+    <root id="archive" name="dockercon.war" />
+  </artifact>
+</component>
